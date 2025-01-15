@@ -8,13 +8,13 @@ Welcome to my GitHub profile! I'm Swetha, and I love python coding & building AI
 ##  About Me
 
 -  I’m currently learning: AI & ML methods for drug design
--  I’m working on: AI based scaffold hopping & drug design in PharmCADD
+-  I’m working on: AI based scaffold hopping & drug design at PharmCADD
 
--  Ask me about: [Topics you're comfortable discussing]
+-  Ask me about: Computational Chemistry, AI-based drug design
 
--  How to reach me: [Your email or social links]
+-  How to reach me: 
 
--  Fun fact: [Something interesting about you]
+-  Fun fact: 
 
  
 
